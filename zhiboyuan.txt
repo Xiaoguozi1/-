@@ -1,4 +1,5 @@
-河南戏https://8q.yinixinxi1.com/video/m3u8/202401/10/fb59472b4968/CDN/index.m3u8曲,http://171.8.245.39:808/hls/26/index.m3u8
+河南戏曲,https://8q.yinixinxi1.com/video/m3u8/202401/10/fb59472b4968/CDN/index.m3u8
+河南戏曲,http://171.8.245.39:808/hls/26/index.m3u8
 高平电视台,http://live.gprmt.cn:80/gpnews/hd/live.m3u8
 相声小品,http://222.137.231.41:808/hls/17/index.m3u8
 高平电视台,http://live.gprmt.cn/gpnews/hd/live.m3u8
